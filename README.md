@@ -1,6 +1,6 @@
 # wx_script
 a auto script for WeChat
-
+微信自动发消息，文本，文件，图片
 
 getting start:
 1. you need use WeChat(your WeChat path) to create a object of WeChat.
